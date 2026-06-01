@@ -14,6 +14,8 @@ A beginner Python project developed while learning programming fundamentals. The
 * Calculate total spending
 * Summarise spending by category
 * Identify the highest recorded expense
+## Screenshot
+![Program Screenshot](screenshot.png)
 ## Programming Concepts Practised
 * Variables
 * Lists
