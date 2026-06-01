@@ -9,9 +9,9 @@ A beginner Python project developed while learning programming fundamentals. The
 * Add expenses
 * Assign spending categories
 ### Expense Viewing
-*Display all recorded expenses
+* Display all recorded expenses
 ### Spending Analysis
-*Calculate total spending
+* Calculate total spending
 * Summarise spending by category
 * Identify the highest recorded expense
 ## Programming Concepts Practised
